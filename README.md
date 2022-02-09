@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[comment]: <> (### Hi there 👋)
 <!--
 **AlienegraGeek/AlienegraGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**I am Yuvan , 🙏**
+<h2> Hi, I'm AlienegraGeek! <img src="https://media.giphy.com/media/Rnb5VoZiIyIM0/giphy.gif" width="100"></h2>
 
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
+<img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="70"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
+![AlienegraGeek Github Stats](https://github-readme-stats.vercel.app/api?username=AlienegraGeek&show_icons=true&title_color=fff&icon_color=1F6FEB&text_color=E82268&bg_color=0D1117&border_color=1F6FEB&show_owner=true)
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=AlienegraGeek&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img src="https://media.giphy.com/media/yi6aDxEerznGw/giphy.gif" width="70"> <em style="padding-right: 50px"><b> Top langs:</em>
 
-<br />
+[comment]: <> (<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&langs_count=8&title_color=fff&text_color=E82268&bg_color=0D1117&layout=compact&border_color=1F6FEB&card_width=400" alt="AlienegraGeek :: Top Langs" /></p>)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&langs_count=8&title_color=fff&text_color=E82268&bg_color=0D1117&layout=compact&border_color=1F6FEB&card_width=450" alt="AlienegraGeek :: Top Langs" /></p>
