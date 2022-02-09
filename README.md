@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="70"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
-![AlienegraGeek Github Stats](https://github-readme-stats.vercel.app/api?username=AlienegraGeek&show_icons=true&title_color=fff&icon_color=1F6FEB&text_color=E82268&bg_color=0D1117&border_color=1F6FEB&show_owner=true)
+![AlienegraGeek Github Stats](https://github-readme-stats.vercel.app/api?username=AlienegraGeek&show_icons=true&title_color=fff&icon_color=18C9CD&text_color=E82268&bg_color=0D1117&border_color=18C9CD&show_owner=true)
 
 <img src="https://media.giphy.com/media/yi6aDxEerznGw/giphy.gif" width="70"> <em style="padding-right: 50px"><b> Top langs:</em>
 
 [comment]: <> (<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&langs_count=8&title_color=fff&text_color=E82268&bg_color=0D1117&layout=compact&border_color=1F6FEB&card_width=400" alt="AlienegraGeek :: Top Langs" /></p>)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&langs_count=8&title_color=fff&text_color=E82268&bg_color=0D1117&layout=compact&border_color=1F6FEB&card_width=450" alt="AlienegraGeek :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&langs_count=8&title_color=fff&text_color=E82268&bg_color=0D1117&layout=compact&border_color=18C9CD&card_width=450" alt="AlienegraGeek :: Top Langs" /></p>
