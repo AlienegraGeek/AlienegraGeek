@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="80"> 
 
-![AlienegraGeek Github Stats](https://github-readme-stats.vercel.app/api?username=AlienegraGeek&show_icons=true&title_color=fff&icon_color=18C9CD&text_color=E82268&bg_color=0D1117&border_color=18C9CD&show_owner=true)
+![AlienegraGeek Github Stats](https://github-readme-stats.vercel.app/api?username=AlienegraGeek&count_private=true&show_icons=true&title_color=fff&icon_color=18C9CD&text_color=E82268&bg_color=0D1117&border_color=18C9CD&show_owner=true)
 
 <img src="https://media.giphy.com/media/yi6aDxEerznGw/giphy.gif" width="80">
 
