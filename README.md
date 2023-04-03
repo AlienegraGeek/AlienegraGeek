@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 <h2> Hi, I'm Alienegra! <img src="https://media.giphy.com/media/Rnb5VoZiIyIM0/giphy.gif" width="100"></h2>
 
-<em>你好，我是<b>Alienegra</b>，一名区块链开发者，坐标广东深圳。曾就职于<b>华为、招商银行</b>，现自主创业中。</em>
+<!--<em>你好，我是<b>Alienegra</b>，一名区块链开发者，坐标广东深圳。曾就职于<b>华为、招商银行</b>，现自主创业中。</em>
 
 <em>欢迎交流共建, <b>微信：Desperado2021</b></em>
+-->
 
 <img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="80"> 
 
