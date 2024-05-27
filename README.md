@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/AlienegraGeek/AlienegraGeek/blob/output/github-contribution-grid-snake.svg)
 <h2> Hi, I'm Alienegra! <img src="https://media.giphy.com/media/Rnb5VoZiIyIM0/giphy.gif" width="100"></h2>
 
 <img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="80"> 
