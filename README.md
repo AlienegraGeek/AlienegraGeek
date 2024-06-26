@@ -1,6 +1,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AlienegraGeek/AlienegraGeek/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/AlienegraGeek/AlienegraGeek/github-contribution-grid-snake.svg#gh-light-mode-only)
 <h2> Hi, I'm Alienegra! <img src="https://media.giphy.com/media/Rnb5VoZiIyIM0/giphy.gif" width="100"></h2>
+
+<img alt="metrics" src="github-metrics.svg">
 
 <img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="80"> 
 
@@ -10,3 +11,4 @@
 
 [comment]: <> (<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&langs_count=8&title_color=fff&text_color=FF8C00&bg_color=0D1117&layout=pie&border_color=1F6FEB&card_width=400" alt="AlienegraGeek :: Top Langs" /></p>)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&count_private=true&langs_count=10&title_color=fff&text_color=FF8C00&bg_color=0D1117&layout=compact&border_color=18C9CD&card_width=450" alt="AlienegraGeek :: Top Langs" /></p>
+
