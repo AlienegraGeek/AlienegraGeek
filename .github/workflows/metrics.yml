@@ -3,11 +3,14 @@ name: Metrics
 on:
   # Schedule updates (every night at 4am)
   schedule: [{cron: "0 4 * * *"}]
+
   # Line below let you run workflow manually
   workflow_dispatch:
+
 jobs:
-  github-metrics:
+  generate-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -23,19 +26,18 @@ jobs:
           # Options
           user: AlienegraGeek
           template: classic
-          base: header, activity, community, repositories, metadata
 
           config_display: large
 
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: data, markup, programming, prose
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_categories: data, markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_recent_days: 60
-          plugin_languages_recent_load: 1000
+          plugin_languages_recent_load: 500
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_other: yes
 
           plugin_lines: yes
