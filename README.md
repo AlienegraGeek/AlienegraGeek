@@ -18,6 +18,6 @@
 
 [//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienegraGeek&count_private=true&langs_count=8&title_color=fff&text_color=9f9f9f&bg_color=0d1117&layout=compact&border_color=0d1117&card_width=450" alt="AlienegraGeek :: Top Langs" style="width: 48%;" />)
 <img alt="stats" src="./profile/stats.svg" style="width: 48%;" />
-<img src="./profile/top-langs.svg" alt="AlienegraGeek :: Top Langs" style="width: 48%;" />
+<img alt="top-langs" src="./profile/top-langs.svg" style="width: 48%;" />
 
 </div>
